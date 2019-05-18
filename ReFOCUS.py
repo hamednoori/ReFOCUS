@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-##### Author: Mahboobe Rezaee #####
+##### Author: Mahboobe Rezaee and Hamed Noori #####
 from __future__ import division
 
 import os
